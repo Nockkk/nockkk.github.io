@@ -17,7 +17,7 @@ title: "Hello. I'm Nuno Araújo."
 email: 'araujonuno2000@gmail.com'
 description: "I'm a game developer from Portugal creating beatiful games with amazing gameplay."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/Nockkk/nockkk.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "nockkk.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 github_username: 'Nockkk'
 medium_username: ''
