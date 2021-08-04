@@ -7,7 +7,7 @@ categories: game development
 tags: Unity C# Photon
 featured_image: '/img/posts/02_knowtheway_wallpaper.png'
 project_link: 'https://icen.itch.io/knowtheway'
-button_icon: 'flask'
+button_icon: 'itch-io'
 button_text: 'Visit Project'
 lead_text: "A co-op game, where you need to find the exit with another player."
 ---
