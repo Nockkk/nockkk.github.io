@@ -18,4 +18,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 13.0.1"
   spec.add_development_dependency "jekyll-paginate", "~> 1.1.0"
   spec.add_development_dependency "kramdown-parser-gfm", "~> 1.1"
+  spec.add_development_dependency 'bootstrap', '~> 4.0.0'
 end
