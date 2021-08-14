@@ -21,6 +21,7 @@ url: "nockkk.github.io" # the base hostname & protocol for your site, e.g. https
 twitter_username: ''
 github_username: 'Nockkk'
 medium_username: ''
+linkedin_id: 'nuno-araújo-408973215'
 
 # Build settings
 markdown: kramdown
