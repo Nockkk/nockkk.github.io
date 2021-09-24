@@ -94,7 +94,7 @@ pagination:
 ### Phantom settings
 footer_text: '© 2021 Nuno Araújo'
 admin_name: 'Nuno Araújo'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+google_analytics: "G-LY0CCJPKJC" # Update with your own tracking ID
 enable_contact: true
 
 #### Phantom Navigation menu
