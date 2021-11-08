@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Know The Way'
 date: 2016-02-20 21:15:00
 categories: game development
