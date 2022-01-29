@@ -92,7 +92,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© `r format(Sys.Date(), %Y")` Nuno Araújo'
+footer_text: '© 2022 Nuno Araújo'
 admin_name: 'Nuno Araújo'
 google_analytics: "G-LY0CCJPKJC" # Update with your own tracking ID
 enable_contact: true
